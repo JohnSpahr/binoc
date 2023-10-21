@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageCategories">
+        <item>nature</item>
+        <item>sky</item>
+        <item>city</item>
+        <item>water</item>
+        <item>animals</item>
+        <item>mountains</item>
+        <item>landscape</item>
+        <item>space</item>
+        <item>food</item>
+        <item>no images</item>
+    </string-array>
+</resources>

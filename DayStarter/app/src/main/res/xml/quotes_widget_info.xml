@@ -1,0 +1,9 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="200dp"
+    android:minHeight="100dp"
+    android:updatePeriodMillis="30000"
+    android:initialLayout="@layout/quotes_provider_layout"
+    android:resizeMode="horizontal|vertical"
+    android:previewImage="@drawable/quote"
+    android:widgetCategory="home_screen">
+</appwidget-provider>

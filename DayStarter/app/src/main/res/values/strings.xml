@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">binoc</string>
+    <string name="image">image</string>
+    <string name="channel_id">all_notifications</string>
+    <string name="_12_n00">12\n00</string>
+    <string name="day_date">Day, Date</string>
+    <string name="a_quote">a quote</string>
+    <string name="enter_a_goal_like_be_happy">enter a goal, like "be happy!"</string>
+    <string name="press_the_done_enter_button_to_save">press the done/enter key or the button below to save your intention</string>
+    <string name="persistent_notification">Persistent Notification</string>
+    <string name="thank_you_for_using_this_app">thank you for using this app!</string>
+    <string name="refresh">refresh</string>
+    <string name="image_category">image category</string>\
+    <string name="app_info">app info</string>
+    <string name="your_intention">your intention</string>
+    <string name="save_msg">💾 save</string>
+</resources>

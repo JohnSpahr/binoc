@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>Whatever the mind can think and perceive, it can achieve.@Napoleon Hill</item>
+
+        <item>It doesn’t matter how slowly you go, as long as you don’t stop.@Confucious</item>
+
+        <item>What you do today can improve all of your tomorrows.@Ralph Marston</item>
+
+        <item>If you cannot do great things, do small things in a great way.@Napoleon Hill</item>
+
+        <item>You begin by always expecting good things to happen.@Tom Hopkins</item>
+
+        <item>It always seems impossible until it’s done.@Nelson Mandela</item>
+
+        <item>The most common way for people to give up their power is by thinking they don’t have any.@Alice Walker</item>
+
+        <item>The trouble is, if you don’t risk anything, you risk more.@Erica Jong</item>
+
+        <item>People who are crazy enough to think they can change the world are the ones who do.@Rob Siltanen</item>
+
+        <item>One’s finds limits by pushing them.@Herbert Simon</item>
+
+        <item>Life is 10% what happens to you and 90% how you react to it.@Charles R. Swindoll</item>
+
+        <item>I am not a product of my circumstances, I am a product of my decisions.@Steven Covey</item>
+
+        <item>Challenges are gifts that force us to search for a new center of gravity. Don’t fight them. Just find a new way to stand.@Oprah Winfrey</item>
+
+        <item>To be successful, you must accept all challenges that come your way. You can’t just accept the ones you like.@Mike Gafka</item>
+
+        <item>Security is mostly a superstition. Life is either a daring adventure or nothing.@Helen Keller</item>
+
+        <item>Success isn’t about how much money you make, it’s about the difference you make in people’s lives.@Michelle Obama</item>
+
+        <item>Live as if you were to die tomorrow, learn as if you were to live forever.@Mahatma Gandi</item>
+
+        <item>The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.@Michealangelo</item>
+
+        <item>I am not judged by the number of times I fail, but by the number of times I succeed.@Tom Hopkins</item>
+
+        <item>Power is not given to you, you have to take it.@Beyonce</item>
+
+        <item>Be humble, be hungry, and always be the hardest worker in the room.@Dwayne Johnson</item>
+
+        <item>Leaders set high standards. Refuse to tolerate mediocrity or poor performance.@Brian Tracy</item>
+
+        <item>Dream big and dream fierce.@Viola Davis</item>
+
+        <item>We may encounter many defeats but we must not be defeated.@Maya Angelou</item>
+
+        <item>Don’t be afraid to give up the good for the great.@John D. Rockefeller</item>
+
+        <item>Vision is the art of seeing what is invisible to others.@Johnathan Swift</item>
+
+        <item>Don’t let what you cannot do interfere with what you can do.@John Wooden</item>
+
+        <item>Life shrinks or expands in proportion to one’s courage.@ Anais Nin</item>
+
+        <item>Leadership is the ability to get extraordinary achievement from ordinary people.@Brian Tracy</item>
+
+        <item>Love your enemies because they tell you all your faults.@Benjamin Franklin</item>
+
+        <item>Dream is not the thing you see in sleep, but it is that thing that doesn’t let you sleep.@Dr. Abdul Kalam</item>
+
+        <item>If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.@Oprah Winfrey</item>
+
+        <item>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not the one who does not feel afraid, but he who conquers that fear.@Nelson Mandela</item>
+
+        <item>Remember, no one can make you feel inferior without your consent.@Eleanor Rosevelt</item>
+
+        <item>Don’t let the fear of losing be greater than the excitement of winning.@Robert Kiyosaki</item>
+
+        <item>The best preparation for tomorrow is doing your best today.@H. Jackson Brown Jr.</item>
+
+        <item>With drive and a little talent, you can move mountains.@Dwayne Johnson</item>
+
+        <item>There are far, far better things ahead than any we leave behind.@C.S. Lewis</item>
+
+        <item>Creativity is intelligence having fun.@Albert Einstein</item>
+
+        <item>You will never find time for anything. If you want time, you must make it.@Charles Burton</item>
+
+        <item>You may have to fight a battle more than once to win it.@Margaret Thatcher</item>
+
+        <item>Courage is like a muscle, we strengthen it by use.@Ruth Gordo</item>
+
+        <item>Perfection is not attainable, but if we chase perfection we can catch excellence.@Vince Lombardi</item>
+
+        <item>Keep your eyes on the stars and your feet on the ground.@Theodore Roosevelt</item>
+
+        <item>Either you run the day, or the day runs you.@Jim Rohn</item>
+
+        <item>Success is getting what you want, happiness is wanting what you get.@Ingrid Bergman</item>
+
+        <item>Keep your face to the sunshine and you cannot see a shadow.@Helen Keller</item>
+
+        <item>Action is the foundational key to all success.@Pablo Picasso</item>
+
+        <item>Even the darkest night will end and the sun will rise.@Victor Hugo</item>
+
+        <item>You can’t use up creativity. The more you use, the more you have.@Maya Angelou</item>
+
+        <item>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.@Helen Keller</item>
+
+        <item>Becoming is better than being.@Herman Melville</item>
+
+        <item>Hardships often prepare ordinary people for extraordinary destiny.@C.S. Lewis</item>
+
+        <item>Optimism is the one quality more associated with success and happiness than any other.@Brian Tracy</item>
+
+        <item>If you want to be successful in this world, you have to follow your passion, not a paycheck.@Jen Welter</item>
+
+        <item>I find that the harder I work, the more success I seem to have.@Thomas Jefferson</item>
+
+        <item>Success is not final and failure is not fatal. It is the courage to continue that counts.@Winston Churchill</item>
+
+        <item>If it is important to you, you will find a way, not an excuse.@Ryan Blair</item>
+
+        <item>Leadership is an action, not a position.@Donald McGannon</item>
+
+        <item>There are no limits to what you can accomplish, except the limits you place on your own thinking.@Brian Tracy</item>
+
+        <item>When the well is dry, we know the worth of water.@Benjamin Franklin</item>
+
+        <item>The starting point of all achievement is desire.@Napoleon Hill</item>
+
+        <item>Failure is the key to success, each mistake teaches us something.@Morihei Ueshiba</item>
+
+        <item>If you wait, all that happens is you get older.@Larry McMurtry</item>
+
+        <item>If you give up on your dreams, what’s left?@Jim Carrey</item>
+
+        <item>You miss 100% of the shots you don’t take.@Wayne Gretzky - Michael Scott</item>
+
+        <item>We only fail when we stop learning.@Steve Krivda</item>
+
+        <item>How dare you settle for less when the world has made it so easy for you to be remarkable.@Seth Godin</item>
+
+        <item>Start where you are. Use what you have. Do what you can.@Arthur Ashe</item>
+
+        <item>If everything seems under control, you’re not going fast enough.@Mario Andretti</item>
+
+        <item>Energy and persistence conquer all things.@Benjamin Franklin</item>
+
+        <item>The only way to do great work is to love what you do.@Steve Jobs</item>
+
+        <item>The secret to change is not on fighting the old, but on building the new.@Socrates</item>
+
+        <item>We can’t help everyone, but everyone can help someone.@Ronald Reagan</item>
+
+        <item>A ship is always safe at shore, but that is not what it’s built for.@Albert Einstein</item>
+
+        <item>The greatest glory lies not in never falling, but in rising every time we fall.@Nelson Mandela</item>
+
+        <item>Remember sometimes not getting what you want is a wonderful stroke of luck.@Dalai Lama</item>
+
+        <item>The secret to getting ahead is getting started.@Mark Twain</item>
+
+        <item>Do or do not, there is no try.@Yoda</item>
+
+        <item>Often any decision, even the wrong decision is better than no decision.@Ben Horwitz</item>
+
+        <item>Hard times do not create heroes. It is during the hard times when the hero within us is revealed.@Bob Riley</item>
+
+        <item>Success is walking from failure to failure without any loss of enthusiasm.@Winston Churchill</item>
+
+        <item>If you spend your life trying to be good at everything, you will never be great at anything.@Tom Rath</item>
+
+        <item>If you cannot outplay them, outwork them.@Ben Hogan</item>
+
+        <item>You just can’t beat the person who never gives up.@Babe Ruth</item>
+
+        <item>Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.@Dale Carnegie</item>
+
+        <item>Challenge yourself. It’s the only path to growth.@Morgan Freeman</item>
+
+        <item>To live a creative life, we must lose our fear of being wrong.@John Wooden</item>
+
+        <item>Act as if what you do makes a difference. It does.@William James</item>
+
+        <item>Obstacles are those frightful things you see when you take your eyes off your goal.@Henry Ford</item>
+
+        <item>Not until we are lost do we begin to truly find ourselves.@Henry David Thoreau</item>
+
+        <item>If opportunity doesn’t knock, build a door.@Milton Berle</item>
+
+        <item>If something is wrong, fix it now. But train yourself not to worry, worry fixes nothing.@Ernest Hemingway</item>
+
+        <item>Well done is better than well said.@Ben Franklin</item>
+
+        <item>It’s always too early to quit.@Norman Vincent Peale</item>
+
+        <item>There will be obstacles, there will be doubters, there will be mistakes, but with hard work, there are no limits.@Michael Phelps</item>
+
+        <item>Dream as if you’ll live forever, live as if you’ll die today.@James Dean</item>
+
+        <item>Don’t let yesterday take up too much of today.@Will Rodgers</item>
+
+        <item>Fear is going to be a player in your life, but you get to decide how much.@Jim Carrey</item>
+
+        <item>How wonderful it is that nobody need wait a single moment before starting to improve the world.@Anne Frank</item>
+
+        <item>When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.@Helen Keller</item>
+
+        <item>The future depends on what you do today.@Mahatma Gandhi</item>
+
+        <item>If you light a lamp for someone else, it will also brighten your path.@Buddha</item>
+
+        <item>It’s not the years in your life that count. It’s the life in your years.@Abraham Lincoln</item>
+
+        <item>Forget about the fast lane. If you really want to fly, just harness your power to your passion.@Oprah Winfrey</item>
+
+        <item>There is only one way to avoid criticism. Do nothing. Be nothing. Say nothing.@Aristotle</item>
+
+        <item>Every mountain top is within your reach if you just keep climbing.@Harry Finlay</item>
+
+        <item>Sometimes you will never know the value of a moment until it becomes a memory.@Dr. Suess</item>
+
+        <item>Intelligence without ambition is a bird without wings.@Salvador Dali</item>
+
+        <item>Those who don’t believe in magic will never find it.@Roald Dahl</item>
+
+        <item>It is never too late to be what you might have been.@George Eliot</item>
+
+        <item>If you aren’t sincere with it, you shouldn’t say anything at all.@Dr. Dre</item>
+
+        <item>Life is about making an impact, not making an income.@Kevin Kruse</item>
+
+        <item>I attribute my success to this: I never gave or took any excuse.@Florence Nightingale</item>
+
+        <item>We become what we think about.@Earl Nightingale</item>
+
+        <item>The two most important days in your life are the day you are born and the day you find out why.@Mark Twain</item>
+
+        <item>If the wind will not serve, take to the oars.@Latin Proverb</item>
+
+        <item>Dream big and dare to fail.@Norman Vaughan</item>
+
+        <item>Life is what we make it, always has been, always will be.@Grandma Moses</item>
+
+        <item>If you can dream it, you can achieve it.@Zig Ziglar</item>
+
+        <item>Life is trying things to see if they work.@Ray Bradbury</item>
+
+        <item>Live in the sunshine, swim the sea, drink the wild air.@Ralph Waldo Emerson</item>
+
+        <item>Never let the fear of striking out keep you from playing the game.@Babe Ruth</item>
+
+        <item>A friend is someone who gives you total freedom to be yourself.@Jim Morrison</item>
+
+        <item>Success is how high you bounce when you hit bottom.@George S. Patton</item>
+
+        <item>The question isn’t who is going to let me; it’s who is going to stop me.@Ayn Rand</item>
+
+        <item>The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.@Thomas A. Edison</item>
+
+        <item>Life isn’t about finding yourself. Life is about creating yourself.@George Bernard Shaw</item>
+
+        <item>The journey of a thousand miles begins with one step.@Lao Tzu</item>
+
+        <item>The best way out is always through.@Robern Frost</item>
+
+        <item>Those who dare to fail miserably can achieve greatly.@John F. Kennedy</item>
+
+        <item>If you want to be happy, be.@Leo Tolstoy</item>
+
+        <item>You must be the change you wish to see in the world.@Gandhi</item>
+
+        <item>The power of imagination makes us infinite.@John Muir</item>
+
+        <item>Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.@Harriet Tubman</item>
+    </string-array>
+</resources>
